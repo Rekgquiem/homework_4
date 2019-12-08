@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+}
+
+.pyramid_head {
+  height: 100px;
+  width: 300px;
+  background-color: green;
+  position: absolute;
+  top: 200px;
+  left: 800px;
+  border: solid red;
+}
+
+.pyramid_body {
+  height: 100px;
+  width: 300px;
+  background-color: green;
+  position: absolute;
+  top: 307px;
+  left: 650px;
+  border: solid red;
+}
+
+.pyramid_body_2 {
+  height: 100px;
+  width: 300px;
+  background-color: green;
+  position: absolute;
+  top: 307px;
+  left: 957px;
+  border: solid red;
+}
+
+.pyramid_footer {
+  height: 100px;
+  width: 300px;
+  background-color: green;
+  position: absolute;
+  top: 414px;
+  left: 450px;
+  border: solid red;
+}
+
+.pyramid_footer_2 {
+  height: 100px;
+  width: 300px;
+  background-color: green;
+  position: absolute;
+  top: 414px;
+  left: 757px;
+  border: solid red;
+}
+
+.pyramid_footer_3 {
+  height: 100px;
+  width: 300px;
+  background-color: green;
+  position: absolute;
+  top: 414px;
+  left: 1064px;
+  border: solid red;
+}
