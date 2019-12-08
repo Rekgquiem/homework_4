@@ -8,56 +8,62 @@ body {
   background-color: green;
   position: absolute;
   top: 200px;
-  left: 800px;
+  left: 808px;
   border: solid red;
+  z-index: 6;
 }
 
 .pyramid_body {
   height: 100px;
   width: 300px;
-  background-color: green;
+  background-color: red;
   position: absolute;
   top: 307px;
   left: 650px;
   border: solid red;
+  z-index: 5;
 }
 
 .pyramid_body_2 {
   height: 100px;
   width: 300px;
-  background-color: green;
+  background-color: blue;
   position: absolute;
   top: 307px;
   left: 957px;
   border: solid red;
+  z-index: 4;
 }
 
 .pyramid_footer {
   height: 100px;
   width: 300px;
-  background-color: green;
+  background-color: gray;
   position: absolute;
   top: 414px;
-  left: 450px;
+  left: 490px;
   border: solid red;
+  z-index: 3;
 }
 
 .pyramid_footer_2 {
   height: 100px;
   width: 300px;
-  background-color: green;
+  background-color: orange;
   position: absolute;
   top: 414px;
-  left: 757px;
+  left: 797px;
   border: solid red;
+  z-index: 2;
 }
 
 .pyramid_footer_3 {
   height: 100px;
   width: 300px;
-  background-color: green;
+  background-color: black;
   position: absolute;
   top: 414px;
-  left: 1064px;
+  left: 1104px;
   border: solid red;
+  z-index: 1;
 }
